@@ -1,0 +1,59 @@
+Recipie 1:
+Name: Stone Cobble Generator (SCG for crafting abbv.)
+Rate: 1 cobble per 5 seconds
+Inventory slots: 1
+Power Costs: 1KEU
+
+	Stone		Water Bucket		Stone
+
+	Stone		Stone Pickaxe		Stone
+
+	Stone		Lava bucket		Stone
+
+Recipie 2: 
+Name: Iron Cobble Generator (ICG)
+Rate: 1 cobble per second
+Inventory slots: 4
+Power Costs: 2KEU
+
+	Iron Block	SCG							Iron Block
+	
+	SCG					Iron Pickaxe		SCG
+
+	Iron Block	SCG							Iron Block
+
+Recipie 3:
+Name: Diamond Cobble Generator (DCG)
+Rate: 10 cobble per second
+Inventory slots: 16
+Power Costs: 7.5KEU
+
+	Diamond Block	ICG					Diamond Block
+
+	ICG			Diamond Pickaxe		ICG
+
+	Diamond Block	ICG					Diamond Block
+
+Recipie 4:
+Name: Mithril Cobble Generator (MCG)
+Rate: 50 cobble per second
+Inventory slots: 64
+Power Costs: 25KEU
+
+	Mithril Block	DCG					Mithril Block
+
+	DCG			Mithril Pickaxe		DCG
+
+	Mithril Block	DCG					Mithril Block
+
+Recipie 5:
+Name: Osmium Cobble Generator (OCG)
+Rate: 250 Cobble per second
+Inventory slots:  256
+Power Costs: 100 KEU
+
+	Osmium Block	MCG				Osmium Block
+
+	MCG		Osmium Pickaxe		MCG
+
+	Osmium Block	MCG				Osmium Block
